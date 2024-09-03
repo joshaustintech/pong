@@ -17,6 +17,6 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Add build tools
-      run: sudo apt-get install build-essential libxrandr -y
+      run: sudo apt-get install build-essential libxrandr2 -y
     - name: Build
       run: cargo build --verbose
