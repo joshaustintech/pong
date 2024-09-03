@@ -1,5 +1,5 @@
 # pong
-[![Ubuntu](https://github.com/joshaustintech/pong/actions/workflows/ubuntu-build.yml/badge.svg)](https://github.com/joshaustintech/pong/actions/workflows/ubuntu-build.yml)
+[![Ubuntu](https://github.com/joshaustintech/pong/actions/workflows/ubuntu-build.yml/badge.svg)](https://github.com/joshaustintech/pong/actions/workflows/ubuntu-build.yml) [![macOS](https://github.com/joshaustintech/pong/actions/workflows/macOS-build.yml/badge.svg)](https://github.com/joshaustintech/pong/actions/workflows/macOS-build.yml)
 
 
 Simple game of Pong, written with Rust and raylib
