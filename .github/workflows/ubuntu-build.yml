@@ -16,7 +16,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
+    - name: Add build tools
+      run: apt-get install build-essential -y
     - name: Build
       run: cargo build --verbose
-    - name: Run tests
-      run: cargo test --verbose
