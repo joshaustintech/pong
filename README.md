@@ -1,6 +1,8 @@
 # pong
-Simple game of Pong, written with Rust and raylib
+[![Ubuntu](https://github.com/joshaustintech/pong/actions/workflows/ubuntu-build.yml/badge.svg)](https://github.com/joshaustintech/pong/actions/workflows/ubuntu-build.yml)
 
+
+Simple game of Pong, written with Rust and raylib
 
 
 
