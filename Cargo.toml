@@ -1,7 +1,7 @@
 [package]
 name = "pong"
-version = "0.1.0"
+version = "0.2.0-SNAPSHOT"
 edition = "2021"
 
 [dependencies]
-raylib-ffi = "5.0.1"
+raylib = "5.0.2"
